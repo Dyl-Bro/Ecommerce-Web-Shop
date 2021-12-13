@@ -1,0 +1,19 @@
+.productCards{
+    display:inline-flex;
+    border-style: solid;
+    border-color: black;
+    width:25%;
+    justify-content: space-evenly;
+    padding: 25px;
+}
+
+.card_header{
+    
+    background: darkblue;
+    color: white;
+}
+.card_content{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; 
+}

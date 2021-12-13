@@ -1,0 +1,25 @@
+body{
+ background-image: linear-gradient(#89A3D5, #DDE1ED, #6B7EA4, #B1BACF  );;
+ background-attachment: fixed;
+}
+
+.app_header{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 0%;
+  
+}
+.app_header_left{
+  flex: 0.9;
+  align-items: left;
+  
+  color: #1a237e;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+  
+  
+}
+.app_header_right{
+  
+  margin-bottom: auto;
+}
